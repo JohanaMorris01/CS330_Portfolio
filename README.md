@@ -1,2 +1,20 @@
-# CS330_Portfolio
-Comp Graphic and Visualization
+# CS 330: Computational Graphics and Visualization
+
+## How do I approach designing software?
+
+Throughout this course, I learned that designing software involves a lot more planning and experimenting than I originally expected. For my final project, I decided to recreate a bathroom countertop scene featuring several everyday items, including a lotion bottle, toner bottle, lipstick, acne patch box, and folded towel. I thought these would be fairly simple objects to recreate, but I quickly realized how much thought goes into making even basic shapes look like something recognizable.
+
+My approach was to break each object down into smaller shapes and figure out how they could fit together. For example, I used cylinders and a box to create the lotion bottle and its pump, while the folded towel required combining different shapes to achieve the appearance I wanted. I also had to consider how the objects would be positioned, how their proportions compared to one another, and which textures would make them look more realistic. Working this way helped me become more comfortable planning out individual components before putting everything together. I think this is something I can apply to future projects because breaking larger problems into smaller, more manageable pieces makes the overall process feel much less overwhelming.
+
+## How do I approach developing programs?
+
+One of the biggest things I learned throughout this project was how important it is to develop programs gradually rather than trying to accomplish everything at once. Each milestone gave me an opportunity to build on what I had already created, whether that meant adding new objects, adjusting transformations, applying textures, or experimenting with lighting. I found that making smaller changes and checking the results before moving forward made it easier to identify problems and figure out what needed to be adjusted.
+
+There was definitely a lot of trial and error involved, especially when working with textures and lighting. One challenge I remember was trying to get the labels on my lotion bottle to display correctly without stretching or wrapping around the wrong parts of the object. Something that seemed like it should have been relatively simple ended up requiring quite a bit of experimenting. I also spent time adjusting the lighting because even small changes could make the objects look completely different. As I worked through these challenges, I became more comfortable troubleshooting my C++ code and understanding how different parts of the program affected what appeared on the screen. By the end of the course, I felt like I had a much better understanding of why testing, making adjustments, and revisiting earlier decisions are such important parts of developing software.
+
+## How can computer science help me in reaching my goals?
+
+I think this course gave me a different perspective on computer science because it allowed me to use C++ in a way that was completely different from my other programming courses. Instead of primarily focusing on processing information or producing text-based output, I was able to see how code could be used to create and manipulate objects in a three-dimensional environment. Learning about transformations, textures, lighting, and camera controls helped me better understand some of the programming concepts involved in computer graphics and interactive applications.
+
+Although I don't necessarily plan on pursuing a career specifically in computer graphics, I still think the skills I developed throughout this course will be useful in my future education and professional work. I gained more experience with problem-solving, debugging, and working through situations where the results weren't what I expected. I also learned how important patience and attention to detail can be when developing something from scratch. Before this course, I never would have imagined how much work could go into recreating a few everyday items sitting on a bathroom counter! Overall, I think this experience helped me become a more confident programmer and gave me a better appreciation for how much planning and experimentation can go into creating visual applications.
+
